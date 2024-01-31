@@ -1,0 +1,287 @@
+body, button, input, select, textarea {
+    font-family: 'Laila', sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
+#header,
+.logoHeader,
+.subTitle,
+.widget_calendar table caption,
+.sc_button,
+.widget_calendar,
+.widget_search .searchFormWrap .searchSubmit,
+.sc_video_frame .sc_video_frame_info_wrap .sc_video_frame_info .sc_video_frame_player_title,
+.widget_popular_posts .ui-tabs-nav li a,
+.sc_quote.sc_quote_style_2,
+.sc_tabs ul.sc_tabs_titles li a,
+.sc_testimonials_item_quote,
+.sc_testimonials_item_user,
+.sc_price_item,
+.sc_pricing_table .sc_pricing_item ul li.sc_pricing_title,
+.sc_skills_arc .sc_skills_legend li,
+.sc_skills_counter,
+.sc_countdown_flip .flip-clock-wrapper ul,
+.sc_countdown_round .countdown-amount,
+.subCategory .categoryDescription {
+    font-family: 'Laila', 'Laila', sans-serif;
+}
+a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .h1 a:hover, .h2 a:hover, .h3 a:hover, .h4 a:hover, .h5 a:hover, .h6 a:hover,
+.logoHeader .logoImg,
+#header .rightTop a,
+.menuStyle2 .wrapTopMenu .topMenu>ul>li>ul li.sfHover>a,
+.menuStyle2 .wrapTopMenu .topMenu>ul>li>ul li a:hover,
+.menuStyle2 .wrapTopMenu .topMenu>ul>li>ul li.menu-item-has-children:after,
+.widgetWrap ul>li,
+.widgetWrap ul>li a:hover,
+.widget_recent_comments ul>li a,
+.widget_twitter ul>li:before,
+.widget_twitter ul>li a,
+.widget_rss ul li a,
+.widget_trex_post .ui-tabs-nav li a,
+.widget_top10 .ui-tabs-nav li a,
+.nav_pages ul li a:hover,
+.postFormatIcon:before,
+.comments .commentModeration .icon,
+.sc_button.sc_button_skin_dark.sc_button_style_line:hover,
+.sc_button.sc_button_skin_global.sc_button_style_line,
+.sc_quote,
+blockquote,
+.sc_toggl.sc_toggl_style_1 .sc_toggl_item .sc_toggl_title:hover,
+.sc_toggl.sc_toggl_style_2 .sc_toggl_item .sc_toggl_title:hover,
+.sc_dropcaps.sc_dropcaps_style_3 .sc_dropcap,
+.sc_highlight.sc_highlight_style_2,
+.sc_pricing_table.sc_pricing_table_style_1 .sc_pricing_price,
+.sc_pricing_table.sc_pricing_table_style_2 .sc_pricing_price,
+.sc_tabs.sc_tabs_style_2 ul li a,
+.sc_tabs.sc_tabs_style_3 ul li.ui-tabs-active a,
+.sc_tabs.sc_tabs_style_3 ul.sc_tabs_titles li.ui-tabs-active a,
+.sc_blogger.style_list li a:hover,
+.sc_testimonials .sc_testimonials_item_author .sc_testimonials_item_user,
+.sc_reservation .sc_reservation_title,
+ul.sc_list.sc_list_style_iconed li:before,
+ul.sc_list.sc_list_style_iconed.sc_list_marked_yes li,
+ul.sc_list.sc_list_style_iconed li.sc_list_marked_yes,
+.sc_button.sc_button_skin_global.sc_button_style_line,
+.sc_dropcaps.sc_dropcaps_style_3 .sc_dropcap,
+.sc_team.sc_team_item_style_1 .sc_team_item_title a,
+.sc_team.sc_team_item_style_2 .sc_team_item_position,
+.sc_countdown .flip-clock-wrapper ul li a div div.inn,
+.sc_contact_info .sc_contact_info_wrap .sc_contact_info_lable,
+.isotopeWrap .fullItemWrap .fullItemClosed:hover,
+.postInfo .postReview .revBlock .ratingValue,
+.reviewBlock .reviewTab .revTotalWrap .revTotal .revRating,
+.reviewBlock .reviewTab .revWrap .revBlock .ratingValue,
+.isotopeWrap .isotopeItem .isotopeContent .isotopeTitle a:hover,
+.postBox .postBoxItem .postBoxInfo h5 a:hover {
+    color: #b4bb6b;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a ,
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
+.widget_calendar table caption,
+.sc_infobox.sc_infobox_style_info,
+.sc_team.sc_team_item_style_1 .sc_team_item_title a:hover{
+	color: #2a2a2a;
+}
+input[type="search"]::-webkit-search-cancel-button {
+    color: #b4bb6b;
+}
+.nav_pages ul li a:hover,
+.wrapTopMenu .topMenu>ul>li>ul,
+.menuStyle1 .wrapTopMenu .topMenu>ul>li>ul>li ul,
+.menuStyle2 .wrapTopMenu .topMenu>ul>li>ul>li ul,
+.widget_trex_post .ui-tabs-nav li a,
+.widget_top10 .ui-tabs-nav li a,
+.sc_button.sc_button_skin_dark.sc_button_style_line:hover,
+.sc_button.sc_button_skin_global.sc_button_style_line,
+.sc_tooltip,
+.sc_tooltip .sc_tooltip_item,
+.sc_tabs.sc_tabs_style_2 ul li a,
+.sc_tabs.sc_tabs_style_2 ul li+li a,
+.sc_tabs.sc_tabs_style_2 ul.sc_tabs_titles li.ui-tabs-active a,
+.sc_tabs.sc_tabs_style_3 ul.sc_tabs_titles li.ui-tabs-active a,
+.sc_tabs.sc_tabs_style_2 .sc_tabs_array,
+.sc_tabs.sc_tabs_style_3 ul li.ui-tabs-active a,
+.sc_tabs.sc_tabs_style_3 .sc_tabs_array,
+.sc_blogger.style_date .sc_blogger_item .sc_blogger_date,
+.sc_banner:before,
+.sc_button.sc_button_skin_global.sc_button_style_line {
+    border-color: #b4bb6b;
+}
+.sc_tooltip .sc_tooltip_item:before,
+.logoStyleBG .logoHeader .logo_bg_size,
+.isotopeWrap .isotopeItem .isotopeRating:after {
+    border-color: #b4bb6b transparent transparent transparent;
+}
+.menuStyle1 #header ul>li>ul:before,
+.buttonScrollUp {
+    border-color: transparent transparent #b4bb6b transparent;
+}
+.widget_recent_reviews .post_item .post_wrapper .post_info .post_review:after {
+    border-color: transparent transparent transparent #b4bb6b;
+}
+.sc_testimonials.sc_testimonials_style_1 .sc_testimonials_item_author_show .sc_testimonials_item_quote:after {
+    border-left-color: #b4bb6b;
+}
+.widget_calendar table tbody td#today {
+    outline: 1px solid #b4bb6b;
+}
+.logoStyleBG .logoHeader .logoImg,
+.userMenuArea .openUserArea,
+.userMenuArea .openUserArea:before,
+.userMenuArea .openUserArea:after,
+.userMenuArea .userMenuWrap,
+#header .openTopMenu,
+.openMobileMenu,
+.menuStyle1 .wrapTopMenu .topMenu>ul>li>ul,
+.menuStyle1 .wrapTopMenu .topMenu>ul>li>ul>li ul,
+.menuStyle2 .wrapTopMenu .topMenu>ul>li>ul li a:before,
+.menuStyle1 #header ul>li>ul,
+.menuStyle1 #header ul>li>ul>li ul,
+.menuStyle2 #header ul>li>ul:before,
+.widget_calendar table tbody td a:before,
+.widget_calendar table tbody td a:hover,
+.widget_tag_cloud a:hover,
+.widget_trex_post .ui-tabs-nav li.ui-state-active a,
+.widget_recent_reviews .post_item .post_wrapper .post_info .post_review .post_review_number,
+.widget_recent_reviews .post_item .post_wrapper .post_info .post_review .review_icon,
+.widget_top10 .ui-tabs-nav li.ui-state-active a,
+.nav_pages ul li span,
+.sc_button.sc_button_skin_global.sc_button_style_bg,
+.sc_video_frame.sc_video_active:before,
+.sc_toggl.sc_toggl_style_2.sc_toggl_icon_show .sc_toggl_item .sc_toggl_title:after,
+.sc_toggl.sc_toggl_style_3 .sc_toggl_item .sc_toggl_title,
+.sc_dropcaps.sc_dropcaps_style_1 .sc_dropcap,
+.sc_tooltip .sc_tooltip_item,
+.sc_table.sc_table_style_2 table thead tr th,
+.sc_highlight.sc_highlight_style_1,
+.sc_pricing_table.sc_pricing_table_style_2 .sc_pricing_item ul li.sc_pricing_title,
+.sc_pricing_table.sc_pricing_table_style_3 .sc_pricing_item ul,
+.sc_pricing_table.sc_pricing_table_style_3 .sc_pricing_item ul li.sc_pricing_title,
+.sc_scroll .sc_scroll_bar .swiper-scrollbar-drag,
+.sc_skills_bar .sc_skills_item .sc_skills_count,
+.sc_skills_bar.sc_skills_vertical .sc_skills_item .sc_skills_count,
+.sc_icon.sc_icon_box,
+.sc_icon.sc_icon_box_circle,
+.sc_icon.sc_icon_box_square,
+.sc_tabs.sc_tabs_style_2 ul.sc_tabs_titles li.ui-tabs-active a,
+.sc_slider.sc_slider_dark .slider-pagination-nav span.swiper-active-switch,
+.sc_slider.sc_slider_light .slider-pagination-nav span.swiper-active-switch,
+.sc_testimonials.sc_testimonials_style_1 .sc_testimonials_item_quote,
+.sc_testimonials.sc_testimonials_style_2 .sc_testimonials_title:after,
+.sc_testimonials.sc_testimonials_style_2 .sc_slider_swiper.sc_slider_pagination .slider-pagination-nav span.swiper-active-switch,
+.sc_blogger.style_date .sc_blogger_item:before,
+.sc_button.sc_button_skin_global.sc_button_style_bg,
+.sc_video_frame.sc_video_active:before,
+.sc_loader_show:before,
+.sc_toggl.sc_toggl_style_2.sc_toggl_icon_show .sc_toggl_item .sc_toggl_title:after,
+.sc_toggl.sc_toggl_style_3 .sc_toggl_item .sc_toggl_title,
+.sc_dropcaps.sc_dropcaps_style_1 .sc_dropcap,
+.sc_team .sc_team_item .sc_team_item_socials ul li a:hover,
+.postInfo .postReview .revBlock.revStyle100 .ratingValue,
+.reviewBlock .reviewTab .revWrap .revBlock.revStyle100 .ratingValue,
+.post-password-required .post-password-form input[type="submit"]:hover,
+.sc_button.sc_button_skin_dark.sc_button_style_bg:hover,
+.sc_button.sc_button_skin_global.sc_button_style_bg,
+.sc_blogger.style_date .sc_blogger_item .sc_blogger_date,
+.sc_countdown.sc_countdown_round .sc_countdown_counter .countdown-section .countdown-amount,
+.sc_skills_counter .sc_skills_item.sc_skills_style_3 .sc_skills_count,
+.sc_skills_counter .sc_skills_item.sc_skills_style_4 .sc_skills_count,
+.sc_skills_counter .sc_skills_item.sc_skills_style_4 .sc_skills_info,
+.isotopeWrap .isotopeItem .isotopeRating span.rInfo,
+.header_contact,
+.header_booking,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
+.mejs-controls .mejs-time-rail .mejs-time-current {
+    background-color: #b4bb6b;
+}
+::selection {
+    color: #fff;
+    background-color: #b4bb6b;
+}
+::-moz-selection {
+    color: #fff;
+    background-color: #b4bb6b;
+}
+a.sc_icon:hover {
+    background-color: #b4bb6b!important;
+}
+.topTitle.subCategoryStyle1 .subCategory,
+.themeDark .isotopeFiltr ul li.active a,
+.isotopeFiltr ul li a {
+    background-color: #f26248
+}
+.wrapTopMenu .topMenu>ul>li>ul {
+    width: 180px;
+    margin: 0 0 0 -105px;
+}
+#mainmenu>li:nth-child(n+6) ul li ul {
+    left: -180px;
+}
+.woocommerce #content input.button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce-page #content input.button,
+.woocommerce-page #respond input#submit,
+.woocommerce-page a.button,
+.woocommerce-page button.button,
+.woocommerce-page input.button,
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li,
+.woocommerce div.product .woocommerce-tabs ul.tabs li,
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li,
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li {
+    font-family: 'Laila', 'Laila', sans-serif;
+}
+.woocommerce #content input.button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce-page #content input.button:hover,
+.woocommerce-page #respond input#submit:hover,
+.woocommerce .woocommerce-pagination ul.page-numbers li span.current,
+.woocommerce-page .woocommerce-pagination ul.page-numbers li span.current {
+    background-color: #b4bb6b!important;
+}
+.woocommerce .woocommerce-pagination ul.page-numbers li a:hover,
+.woocommerce-page .woocommerce-pagination ul.page-numbers li a:hover,
+.woocommerce ul.products li.product .price,
+.woocommerce-page ul.products li.product .price,
+.woocommerce #content div.product p.price,
+.woocommerce #content div.product span.price,
+.woocommerce div.product p.price,
+.woocommerce div.product span.price,
+.woocommerce-page #content div.product p.price,
+.woocommerce-page #content div.product span.price,
+.woocommerce-page div.product p.price,
+.woocommerce-page div.product span.price {
+    color: #b4bb6b!important;
+}
+.woocommerce .woocommerce-pagination ul.page-numbers li a:hover,
+.woocommerce-page .woocommerce-pagination ul.page-numbers li a:hover,
+.woocommerce ul.products li.product:hover a img,
+.woocommerce-page ul.products li.product:hover a img,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button {
+    border-color: #b4bb6b!important;
+}
+.woocommerce .star-rating span:before,
+.woocommerce-page .star-rating span:before,
+.woocommerce p.stars a:after,
+.woocommerce-page p.stars a:after {
+    color: #f26248!important;
+}
+.woocommerce span.onsale,
+.woocommerce-page span.onsale {
+    background-color: #f26248!important;
+}
+.isfoll {
+	background-color:#b4bb6b;
+}
+.uhsfoll {
+	background-color:#0a0a0a;
+}
+.alimfoll {
+	width:400px;
+}
