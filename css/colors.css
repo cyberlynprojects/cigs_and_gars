@@ -72,7 +72,7 @@ ul.sc_list.sc_list_style_iconed li.sc_list_marked_yes,
 .reviewBlock .reviewTab .revWrap .revBlock .ratingValue,
 .isotopeWrap .isotopeItem .isotopeContent .isotopeTitle a:hover,
 .postBox .postBoxItem .postBoxInfo h5 a:hover {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a ,
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
 	color: #2a2a2a;
 }
 input[type="search"]::-webkit-search-cancel-button {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .nav_pages ul li a:hover,
 .wrapTopMenu .topMenu>ul>li>ul,
@@ -104,25 +104,25 @@ input[type="search"]::-webkit-search-cancel-button {
 .sc_blogger.style_date .sc_blogger_item .sc_blogger_date,
 .sc_banner:before,
 .sc_button.sc_button_skin_global.sc_button_style_line {
-    border-color: #b4bb6b;
+    border-color: #d1690f;
 }
 .sc_tooltip .sc_tooltip_item:before,
 .logoStyleBG .logoHeader .logo_bg_size,
 .isotopeWrap .isotopeItem .isotopeRating:after {
-    border-color: #b4bb6b transparent transparent transparent;
+    border-color: #d1690f transparent transparent transparent;
 }
 .menuStyle1 #header ul>li>ul:before,
 .buttonScrollUp {
-    border-color: transparent transparent #b4bb6b transparent;
+    border-color: transparent transparent #d1690f transparent;
 }
 .widget_recent_reviews .post_item .post_wrapper .post_info .post_review:after {
-    border-color: transparent transparent transparent #b4bb6b;
+    border-color: transparent transparent transparent #d1690f;
 }
 .sc_testimonials.sc_testimonials_style_1 .sc_testimonials_item_author_show .sc_testimonials_item_quote:after {
-    border-left-color: #b4bb6b;
+    border-left-color: #d1690f;
 }
 .widget_calendar table tbody td#today {
-    outline: 1px solid #b4bb6b;
+    outline: 1px solid #d1690f;
 }
 .logoStyleBG .logoHeader .logoImg,
 .userMenuArea .openUserArea,
@@ -191,18 +191,18 @@ input[type="search"]::-webkit-search-cancel-button {
 .header_booking,
 .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
 .mejs-controls .mejs-time-rail .mejs-time-current {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 ::selection {
     color: #fff;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 ::-moz-selection {
     color: #fff;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 a.sc_icon:hover {
-    background-color: #b4bb6b!important;
+    background-color: #d1690f!important;
 }
 .topTitle.subCategoryStyle1 .subCategory,
 .themeDark .isotopeFiltr ul li.active a,
@@ -241,7 +241,7 @@ a.sc_icon:hover {
 .woocommerce-page #respond input#submit:hover,
 .woocommerce .woocommerce-pagination ul.page-numbers li span.current,
 .woocommerce-page .woocommerce-pagination ul.page-numbers li span.current {
-    background-color: #b4bb6b!important;
+    background-color: #d1690f!important;
 }
 .woocommerce .woocommerce-pagination ul.page-numbers li a:hover,
 .woocommerce-page .woocommerce-pagination ul.page-numbers li a:hover,
@@ -255,7 +255,7 @@ a.sc_icon:hover {
 .woocommerce-page #content div.product span.price,
 .woocommerce-page div.product p.price,
 .woocommerce-page div.product span.price {
-    color: #b4bb6b!important;
+    color: #d1690f!important;
 }
 .woocommerce .woocommerce-pagination ul.page-numbers li a:hover,
 .woocommerce-page .woocommerce-pagination ul.page-numbers li a:hover,
@@ -264,7 +264,7 @@ a.sc_icon:hover {
 .woocommerce a.button,
 .woocommerce button.button,
 .woocommerce input.button {
-    border-color: #b4bb6b!important;
+    border-color: #d1690f!important;
 }
 .woocommerce .star-rating span:before,
 .woocommerce-page .star-rating span:before,
@@ -277,7 +277,7 @@ a.sc_icon:hover {
     background-color: #f26248!important;
 }
 .isfoll {
-	background-color:#b4bb6b;
+	background-color:#d1690f;
 }
 .uhsfoll {
 	background-color:#0a0a0a;

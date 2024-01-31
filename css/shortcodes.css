@@ -66,7 +66,7 @@
     position: absolute;
     top: 50%;
     right: 50%;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     -webkit-animation: rotateplane 1.2s infinite ease-in-out;
     animation: rotateplane 1.2s infinite ease-in-out;
 }
@@ -144,25 +144,25 @@
     border: none;
     background-color: #000;
     color: #fff;
-    border: 2px solid #000;
+    border: 2px solid #fff;
 }
 .post-password-required .post-password-form input[type="submit"]:hover,
 .sc_button.sc_button_skin_dark.sc_button_style_bg:hover,
 .sc_button.sc_button_skin_global.sc_button_style_bg {
     border: none;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
-    border: 2px solid #b4bb6b;
+    border: 2px solid #d1690f;
 }
 .sc_button.sc_button_skin_global.sc_button_style_line:hover,
 .sc_button.sc_button_skin_dark.sc_button_style_line {
-    border: 2px solid #000;
-    color: #000;
+    border: 2px solid #fff;
+    color: #fff;
 }
 .sc_button.sc_button_skin_dark.sc_button_style_line:hover,
 .sc_button.sc_button_skin_global.sc_button_style_line {
-    border: 2px solid #b4bb6b;
-    color: #b4bb6b;
+    border: 2px solid #d1690f;
+    color: #d1690f;
 }
 .sc_button.sc_button_size_mini {
     font-size: 11px;
@@ -261,7 +261,7 @@
     color: #db541b;
 }
 .sc_infobox.sc_infobox_style_success {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .sc_infobox.sc_infobox_style_success:before {
     color: #7f8034;
@@ -313,13 +313,13 @@ blockquote {
     font-size: 26px;
     line-height: 35px;
     font-style: italic;
-    color: #b4bb6b;
+    color: #d1690f;
     padding: 0 0 0 50px;
     font-weight: 100;
 }
 .sc_quote.sc_quote_style_1 .sc_quote_title,
 blockquote .sc_quote_title {
-    color: #000;
+    color: #fff;
 }
 .sc_quote.sc_quote_style_1:before {
     font-style: normal;
@@ -329,7 +329,7 @@ blockquote .sc_quote_title {
 .sc_quote.sc_quote_style_2 {
     font-size: 24px;
     line-height: 30px;
-    color: #000;
+    color: #fff;
     font-style: normal;
     padding: 0 0 0 30px;
     position: relative;
@@ -344,7 +344,7 @@ blockquote .sc_quote_title {
     font-size: 70px;
 }
 .sc_quote.sc_quote_style_2 .sc_quote_title {
-    color: #000;
+    color: #fff;
 }
 /*= Audio ======================================================================================================================================*/
 
@@ -385,12 +385,12 @@ blockquote .sc_quote_title {
     min-height: 70px;
 }
 .sc_audio .sc_audio_title {
-    color: #000;
+    color: #fff;
     font-size: 18px;
     font-weight: 700;
 }
 .sc_audio .sc_audio_author {
-    color: #000;
+    color: #fff;
     font-size: 12px;
 }
 .audio_container:after {
@@ -447,7 +447,7 @@ blockquote .sc_quote_title {
     height: 100%;
     left: 0;
     top: 0;
-    background-color: #000;
+    background-color: #fff;
     opacity: 0;
 }
 .sc_video_frame:hover .sc_video_frame_thumb:before {
@@ -609,29 +609,29 @@ blockquote .sc_quote_title {
 .sc_toggl.sc_toggl_style_1 .sc_toggl_item.sc_active .sc_toggl_title:hover,
 .sc_toggl.sc_toggl_style_1 .sc_toggl_item .sc_toggl_title {
     background-color: #fff;
-    color: #000
+    color: #fff
 }
 .sc_toggl.sc_toggl_style_1 .sc_toggl_item .sc_toggl_title:hover,
 .sc_toggl.sc_toggl_style_1 .sc_toggl_item .sc_toggl_title:hover a {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 /*accordion style 2*/
 
 .sc_toggl.sc_toggl_style_2 .sc_toggl_item .sc_toggl_title {
-    color: #000;
+    color: #fff;
 }
 .sc_toggl.sc_toggl_style_2 .sc_toggl_item .sc_toggl_title:hover {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .sc_toggl.sc_toggl_style_2 .sc_toggl_item .sc_toggl_title .sc_items_counter {
-    color: #000;
+    color: #fff;
 }
 .sc_toggl.sc_toggl_style_2.sc_toggl_icon_show .sc_toggl_item .sc_toggl_title:before {
     color: #fff
 }
 .sc_toggl.sc_toggl_style_2.sc_toggl_icon_show .sc_toggl_item .sc_toggl_title:after {
     content: '';
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     position: absolute;
     top: 0;
     height: 100%;
@@ -646,7 +646,7 @@ blockquote .sc_quote_title {
 }
 .sc_toggl.sc_toggl_style_2.sc_toggl_icon_show.sc_toggl_icon_left .sc_toggl_item .sc_toggl_title:hover:after,
 .sc_toggl.sc_toggl_style_2.sc_toggl_icon_show.sc_toggl_icon_right .sc_toggl_item .sc_toggl_title:hover:after {
-    background-color: #000;
+    background-color: #fff;
 }
 .sc_toggl.sc_toggl_style_2.sc_toggl_icon_show.sc_toggl_icon_left .sc_toggl_item .sc_toggl_title {
     padding-left: 80px;
@@ -657,7 +657,7 @@ blockquote .sc_quote_title {
 /*accordion style 3*/
 
 .sc_toggl.sc_toggl_style_3 .sc_toggl_item .sc_toggl_title {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
     margin: 0 -1px;
 }
@@ -665,7 +665,7 @@ blockquote .sc_quote_title {
     color: #fff
 }
 .sc_toggl.sc_toggl_style_3 .sc_toggl_item .sc_toggl_title:hover {
-    background-color: #000;
+    background-color: #fff;
 }
 /*= Google map ================================================================================================================*/
 
@@ -691,15 +691,15 @@ blockquote .sc_quote_title {
     font-weight: 400;
 }
 .sc_dropcaps.sc_dropcaps_style_1 .sc_dropcap {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
 }
 .sc_dropcaps.sc_dropcaps_style_2 .sc_dropcap {
-    background-color: #000;
+    background-color: #fff;
     color: #fff;
 }
 .sc_dropcaps.sc_dropcaps_style_3 .sc_dropcap {
-    color: #b4bb6b;
+    color: #d1690f;
     font-weight: 500;
     font-size: 60px;
     text-align: left;
@@ -709,7 +709,7 @@ blockquote .sc_quote_title {
     margin: 0 10px 0 0;
 }
 .sc_dropcaps.sc_dropcaps_style_4 .sc_dropcap {
-    color: #000;
+    color: #fff;
     font-weight: 500;
     font-size: 60px;
     text-align: left;
@@ -722,7 +722,7 @@ blockquote .sc_quote_title {
 
 .sc_tooltip {
     text-decoration: none;
-    border-bottom: 1px dashed #b4bb6b;
+    border-bottom: 1px dashed #d1690f;
     position: relative;
     cursor: help;
 }
@@ -735,7 +735,7 @@ blockquote .sc_quote_title {
     padding: 1px 5px;
     z-index: 101;
     display: none;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     font-size: 14px;
 }
 .sc_tooltip .sc_tooltip_item:before {
@@ -748,7 +748,7 @@ blockquote .sc_quote_title {
     z-index: 1;
     border-style: solid;
     border-width: 6px 5px 0 5px;
-    border-color: #b4bb6b transparent transparent transparent;
+    border-color: #d1690f transparent transparent transparent;
 }
 /*= Price ======================================================================================================================================*/
 
@@ -807,7 +807,7 @@ blockquote .sc_quote_title {
     margin: 0 15px;
 }
 .sc_countdown.sc_countdown_round .sc_countdown_counter .countdown-section .countdown-amount {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     display: block;
     width: 150px;
     height: 150px;
@@ -862,7 +862,7 @@ blockquote .sc_quote_title {
     display: block;
     width: 60px;
     margin: 0 auto;
-    border: 2px solid #000;
+    border: 2px solid #fff;
     height: 60px;
 }
 .sc_eform_form .error{
@@ -950,7 +950,7 @@ blockquote .sc_quote_title {
 }
 .sc_table table tfoot td {
     background-color: #fff;
-    color: #000;
+    color: #fff;
 }
 /*align*/
 
@@ -975,7 +975,7 @@ blockquote .sc_quote_title {
 /*table style 2*/
 
 .sc_table.sc_table_style_2 table thead tr th {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
     border-width: 0;
 }
@@ -985,7 +985,7 @@ blockquote .sc_quote_title {
 /*table style 3*/
 
 .sc_table.sc_table_style_3 table thead tr th {
-    background-color: #000;
+    background-color: #fff;
     color: #fff;
     border-width: 0;
 }
@@ -997,13 +997,13 @@ blockquote .sc_quote_title {
 .sc_highlight.sc_highlight_style_1 {
     text-decoration: none;
     color: #fff;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     padding: 0 4px;
 }
 .sc_highlight.sc_highlight_style_2 {
     text-decoration: none;
     font-weight: 400;
-    color: #b4bb6b
+    color: #d1690f
 }
 /*= Pricing table ======================================================================================================================================*/
 
@@ -1129,41 +1129,41 @@ blockquote .sc_quote_title {
 /*style1*/
 
 .sc_pricing_table.sc_pricing_table_style_1 .sc_pricing_item ul {
-    color: #000;
+    color: #fff;
     background-color: #fff;
 }
 .sc_pricing_table.sc_pricing_table_style_1 .sc_pricing_price {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .sc_pricing_table.sc_pricing_table_style_1 .sc_pricing_item ul li.sc_pricing_title {
     background-color: #fff;
-    color: #000;
+    color: #fff;
     border-bottom: 1px solid #fff;
 }
 /*style2*/
 
 .sc_pricing_table.sc_pricing_table_style_2 .sc_pricing_item ul {
     background-color: #fff;
-    color: #000;
+    color: #fff;
 }
 .sc_pricing_table.sc_pricing_table_style_2 .sc_pricing_price {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .sc_pricing_table.sc_pricing_table_style_2 .sc_pricing_item ul li.sc_pricing_title {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
 }
 /*style3*/
 
 .sc_pricing_table.sc_pricing_table_style_3 .sc_pricing_item ul {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
 }
 .sc_pricing_table.sc_pricing_table_style_3 .sc_pricing_price {
     color: #fff;
 }
 .sc_pricing_table.sc_pricing_table_style_3 .sc_pricing_item ul li.sc_pricing_title {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
     border-bottom: 1px solid #fff;
 }
@@ -1194,7 +1194,7 @@ blockquote .sc_quote_title {
     position: absolute;
 }
 .sc_scroll .sc_scroll_bar .swiper-scrollbar-drag {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .sc_scroll .sc_scroll_bar_horizontal {
     bottom: -1px;
@@ -1291,7 +1291,7 @@ blockquote .sc_quote_title {
     left: 0px;
     top: 0px;
     z-index: 2;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     overflow: visible !important;
 }
 .sc_skills_bar .sc_skills_info {
@@ -1316,7 +1316,7 @@ blockquote .sc_quote_title {
 }
 .sc_skills_bar .sc_skills_total span {
     display: inline-block;
-    background-color: #000;
+    background-color: #fff;
     padding: 5px;
 }
 /*vertical*/
@@ -1336,7 +1336,7 @@ blockquote .sc_quote_title {
     position: absolute;
     top: auto;
     bottom: 0;
-    background-color: #b4bb6b
+    background-color: #d1690f
 }
 .sc_skills_bar.sc_skills_vertical .sc_skills_total {
     right: 50%;
@@ -1349,7 +1349,7 @@ blockquote .sc_quote_title {
     display: block;
     auto;
     border-style: solid;
-    border-color: transparent transparent #000 transparent;
+    border-color: transparent transparent #fff transparent;
     border-width: 0 4px 7px 4px;
     position: absolute;
     left: 50%;
@@ -1390,7 +1390,7 @@ blockquote .sc_quote_title {
     display: block;
     auto;
     border-style: solid;
-    border-color: #000 transparent transparent transparent;
+    border-color: #fff transparent transparent transparent;
     border-width: 7px 4px 0 4px;
     position: absolute;
     left: 50%;
@@ -1530,7 +1530,7 @@ blockquote .sc_quote_title {
     font-size: inherit !important;
 }
 a.sc_icon {
-    border-color: #000;
+    border-color: #fff;
     border-style: solid;
     -webkit-transition: none;
     -moz-transition: none;
@@ -1567,14 +1567,14 @@ a.sc_icon:hover {
     display: inline-block;
     overflow: hidden;
     padding: 0.3em;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
 }
 .sc_icon.sc_icon_box_square {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .sc_icon.sc_icon_box_circle {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     -webkit-border-radius: 1000px;
     -moz-border-radius: 1000px;
     border-radius: 1000px;
@@ -1660,7 +1660,7 @@ a.sc_icon:hover {
     font-weight: 700;
     text-transform: uppercase;
     font-size: 14px;
-    color: #000;
+    color: #fff;
     border-style: solid;
 }
 .sc_tabs ul.sc_tabs_titles li.ui-tabs-active a {
@@ -1711,17 +1711,17 @@ a.sc_icon:hover {
 }
 .sc_tabs.sc_tabs_style_2 ul.sc_tabs_titles li a {
     background-color: #fff;
-    color: #b4bb6b;
-    border-color: #b4bb6b;
+    color: #d1690f;
+    border-color: #d1690f;
     border-width: 1px;
 }
 .sc_tabs.sc_tabs_style_2 ul.sc_tabs_titles li + li a {
-    border-color: #b4bb6b;
+    border-color: #d1690f;
 }
 .sc_tabs.sc_tabs_style_2 ul.sc_tabs_titles li.ui-tabs-active a {
     color: #fff;
-    background-color: #b4bb6b;
-    border-color: #b4bb6b;
+    background-color: #d1690f;
+    border-color: #d1690f;
 }
 .sc_tabs.sc_tabs_style_2 ul.sc_tabs_titles li.ui-tabs-active a:before {
     content: none;
@@ -1730,7 +1730,7 @@ a.sc_icon:hover {
     padding: 30px;
 }
 .sc_tabs.sc_tabs_style_2 .sc_tabs_array {
-    border: 1px solid #b4bb6b;
+    border: 1px solid #d1690f;
     margin: 10px 0 0 0;
 }
 /*style3*/
@@ -1741,9 +1741,9 @@ a.sc_icon:hover {
     margin: 0 -1px 0 0;
 }
 .sc_tabs.sc_tabs_style_3 ul.sc_tabs_titles li.ui-tabs-active a {
-    border-color: #b4bb6b;
+    border-color: #d1690f;
     z-index: 2;
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .sc_tabs.sc_tabs_style_3 .sc_tabs_content {
     margin: 30px 0 0 0;
@@ -1865,7 +1865,7 @@ a.sc_icon:hover {
 }
 .sc_gallery .sc_gallery_item .thumb:before {
     content: '';
-    background-color: #000;
+    background-color: #fff;
     position: absolute;
     left: 0;
     top: 0;
@@ -2200,30 +2200,30 @@ a.sc_icon:hover {
     color: #fff;
 }
 .sc_slider.sc_slider_dark .slider-control-nav li a:hover {
-    color: #000;
+    color: #fff;
 }
 .sc_slider.sc_slider_dark .slider-pagination-nav span {
     background-color: #fff;
 }
 .sc_slider.sc_slider_dark .slider-pagination-nav span.swiper-active-switch {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .sc_slider.sc_slider_dark .slider-pagination-nav span:hover {
-    background-color: #000;
+    background-color: #fff;
 }
 /*light*/
 
 .sc_slider.sc_slider_light .slider-control-nav li a {
-    color: #000;
+    color: #fff;
 }
 .sc_slider.sc_slider_light .slider-control-nav li a:hover {
     color: #fff;
 }
 .sc_slider.sc_slider_light .slider-pagination-nav span {
-    background-color: #000;
+    background-color: #fff;
 }
 .sc_slider.sc_slider_light .slider-pagination-nav span.swiper-active-switch {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .sc_slider.sc_slider_light .slider-pagination-nav span:hover {
     background-color: #fff;
@@ -2289,13 +2289,13 @@ a.sc_icon:hover {
 }
 .sc_slider_swiper.sc_slider_light .sc_slider_info {
     background-color: rgba(255, 255, 255, 0.7);
-    color: #000;
+    color: #fff;
 }
 .sc_slider_swiper.sc_slider_light .sc_slider_info a {
-    color: #000;
+    color: #fff;
 }
 .sc_slider_swiper.sc_slider_light .sc_slider_info .sc_slider_descr {
-    color: #000;
+    color: #fff;
 }
 .sc_slider_swiper .sc_slider_info {
     padding: 20px;
@@ -2322,7 +2322,7 @@ a.sc_icon:hover {
     min-height: 0;
 }
 .sc_slider_swiper .slides li .sc_slider_info a:hover {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .sc_slider_swiper .sc_slider_info .sc_slider_subtitle {
     margin: 0;
@@ -2346,7 +2346,7 @@ a.sc_icon:hover {
 }
 .sc_slider_swiper .sc_slider_info .sc_slider_reviews_short span.rInfo {
     padding: 5px 0 5px 0;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     position: relative;
 }
 .sc_slider_swiper .sc_slider_info .sc_slider_reviews_short span.rDelta {
@@ -2365,7 +2365,7 @@ a.sc_icon:hover {
 .sc_slider_swiper .sc_slider_info .sc_slider_reviews_short span.rDelta:after {
     content: '';
     display: block;
-    border-color: #b4bb6b transparent transparent transparent;
+    border-color: #d1690f transparent transparent transparent;
     border-style: solid;
     border-width: 20px 25px 0 25px;
     position: absolute;
@@ -2447,7 +2447,7 @@ a.sc_icon:hover {
 .sc_testimonials .sc_testimonials_item_author .sc_testimonials_item_user {
     display: inline-block;
     vertical-align: middle;
-    color: #b4bb6b;
+    color: #d1690f;
     font-size: 14px;
     text-transform: uppercase;
     text-align: left;
@@ -2533,7 +2533,7 @@ a.sc_icon:hover {
 /*style1*/
 
 .sc_testimonials.sc_testimonials_style_1 .sc_testimonials_item_quote {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
     font-size: 18px;
     padding: 25px;
@@ -2558,7 +2558,7 @@ a.sc_icon:hover {
     border-style: solid;
     border-bottom-color: transparent;
     border-top-color: transparent;
-    border-left-color: #b4bb6b;
+    border-left-color: #d1690f;
     border-right-color: transparent;
     position: absolute;
     bottom: -18px;
@@ -2591,10 +2591,10 @@ a.sc_icon:hover {
     background-color: #fff
 }
 .sc_testimonials.sc_testimonials_style_1 .sc_slider_swiper.sc_slider_pagination .slider-pagination-nav span.swiper-active-switch {
-    background-color: #000
+    background-color: #fff
 }
 .sc_testimonials.sc_testimonials_style_1 .sc_slider_swiper.sc_slider_controls .slider-control-nav li a:before {
-    color: #000;
+    color: #fff;
 }
 /*style2*/
 
@@ -2610,13 +2610,13 @@ a.sc_icon:hover {
     content: '';
     height: 2px;
     width: 40px;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     display: block;
     margin: 30px auto 0 auto;
 }
 .sc_testimonials.sc_testimonials_style_2 .sc_testimonials_item_quote {
     font-size: 18px;
-    color: #000;
+    color: #fff;
 }
 .sc_testimonials.sc_testimonials_style_2 .sc_testimonials_item_quote .sc_testimonials_item_text {} .sc_testimonials.sc_testimonials_style_2 .sc_testimonials_item_quote .sc_testimonials_item_text_before:before {
     content: '\201c';
@@ -2626,7 +2626,7 @@ a.sc_icon:hover {
     width: 20px;
     height: 20px;
     line-height: 40px;
-    color: #000;
+    color: #fff;
     margin: 0 3px 0 0;
 }
 .sc_testimonials.sc_testimonials_style_2 .sc_testimonials_item_author {
@@ -2663,10 +2663,10 @@ a.sc_icon:hover {
     background-color: #fff
 }
 .sc_testimonials.sc_testimonials_style_2 .sc_slider_swiper.sc_slider_pagination .slider-pagination-nav span.swiper-active-switch {
-    background-color: #b4bb6b
+    background-color: #d1690f
 }
 .sc_testimonials.sc_testimonials_style_2 .sc_slider_swiper.sc_slider_controls .slider-control-nav li a:before {
-    color: #000;
+    color: #fff;
 }
 /*= Banner ==============================================================================================================*/
 
@@ -2683,7 +2683,7 @@ a.sc_icon:hover {
     left: -10px;
     position: absolute;
     z-index: 1;
-    border: 10px solid #b4bb6b;
+    border: 10px solid #d1690f;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
     -ms-transition: all 0.3s ease-out;
@@ -2782,7 +2782,7 @@ a.sc_icon:hover {
 .sc_blogger.style_date .sc_blogger_item:before {
     content: '';
     display: block;
-    background: #b4bb6b;
+    background: #d1690f;
     position: absolute;
     z-index: 1;
 }
@@ -2825,11 +2825,11 @@ a.sc_icon:hover {
 .sc_blogger.style_date .sc_blogger_item .sc_blogger_date {
     width: 78px;
     height: 78px;
-    border: 1px solid #b4bb6b;
+    border: 1px solid #d1690f;
     float: left;
     position: relative;
     z-index: 2;
-    background: #b4bb6b;
+    background: #d1690f;
     color: #fff;
     text-align: center;
     line-height: 120%;
@@ -2961,7 +2961,7 @@ a.sc_icon:hover {
     padding: 0 0 0 30px;
 }
 .sc_blogger.style_list li {
-    color: #000;
+    color: #fff;
     list-style: none;
     position: relative;
     margin: 0;
@@ -2984,10 +2984,10 @@ a.sc_icon:hover {
     top: 7px;
 }
 .sc_blogger.style_list li a {
-    color: #000;
+    color: #fff;
 }
 .sc_blogger.style_list li a:hover {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 /*= Parallax ==============================================================================================================*/
 
@@ -3032,8 +3032,8 @@ a.sc_icon:hover {
 }
 
 
-.sc_parallax_bg {
-    background-image: url(../images/2000x1200.jpg);
+.sc_parallax_bg {    
+    background-image: url(../images/Store/store-1.jpeg);
     background-position: 50% 50%;
 }
 /*= List ==============================================================================================================*/
@@ -3065,13 +3065,13 @@ ul.sc_list.sc_list_style_iconed li:before {
     font-size: 14px;
     text-align: left;
     line-height: 16px;
-    color: #b4bb6b
+    color: #d1690f
 }
 ul.sc_list.sc_list_style_iconed.sc_list_marked_yes li {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 ul.sc_list.sc_list_style_iconed li.sc_list_marked_yes {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 ul.sc_list.sc_list_style_iconed li.sc_list_marked_no {
     color: #888888
@@ -3118,7 +3118,7 @@ ul.sc_list.sc_list_style_iconed li.sc_list_marked_no {
     margin: 15px 0 0 0;
 }
 .sc_contact_info .sc_contact_info_wrap .sc_contact_info_lable {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 /*= Table Reservation =======================================================================================================*/
 
@@ -3264,7 +3264,7 @@ ul.sc_list.sc_list_style_iconed li.sc_list_marked_no {
     display: block;
 }
 .sc_team .sc_team_item .sc_team_item_socials ul li a:hover {
-    background-color: #b4bb6b
+    background-color: #d1690f
 }
 .sc_team .sc_team_item .sc_team_item_socials ul li a:hover span:before {
     color: #fff;
@@ -3339,7 +3339,7 @@ ul.sc_list.sc_list_style_iconed li.sc_list_marked_no {
 /*style1*/
 
 .sc_team.sc_team_item_style_1 .sc_team_item_title {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .sc_team.sc_team_item_style_1 .sc_team_item_position {
     font-weight: 400;
@@ -3349,11 +3349,11 @@ ul.sc_list.sc_list_style_iconed li.sc_list_marked_no {
 
 .sc_team.sc_team_item_style_2 .sc_team_item_title {
     text-align: center;
-    color: #000;
+    color: #fff;
 }
 .sc_team.sc_team_item_style_2 .sc_team_item_position {
     text-align: center;
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .sc_team.sc_team_item_style_2 .sc_team_item_description {
     text-align: center;
@@ -3652,7 +3652,7 @@ ul.sc_list.sc_list_style_iconed li.sc_list_marked_no {
 
 .booking_field_input_custom {
 	background-color: #FFFFFF!important;
-	color: #000000!important;
+	color: #fff000!important;
 }
 
 .booking_book_now_custom {

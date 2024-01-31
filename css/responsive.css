@@ -312,7 +312,7 @@
 		height: 100%;
 		top: 0;
 		bottom: 0;
-		background-color: #b4bb6b;
+		background-color: #d1690f;
 	}
 	.logoSeparator .wrapTopMenu .topMenu {
 		box-sizing: border-box;
@@ -333,7 +333,7 @@
 		float: none;
 		clear: none;
 		text-align: center;
-		background-color: #b4bb6b;
+		background-color: #d1690f;
 		position: absolute;
 		z-index: 1;
 		left: 0;
@@ -954,7 +954,7 @@
 		height: 155px;
 	}
 	.events-archive.events-gridview #tribe-events-content table .type-tribe_events {
-		background-color: #b4bb6b;
+		background-color: #d1690f;
 		width:  20px;
 		height:  20px;
 		padding:  0;

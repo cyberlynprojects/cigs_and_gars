@@ -91,7 +91,7 @@
 .themeDark .sc_tabs ul.sc_tabs_titles li{ background-color: #262627; }
 .themeDark .sc_tabs ul.sc_tabs_titles li.ui-tabs-active a,
 .themeDark .sc_tabs .sc_tabs_array,
-.themeDark .sc_tabs ul.sc_tabs_titles li.ui-tabs-active a:before{ background-color: #000; color: #fff;}
+.themeDark .sc_tabs ul.sc_tabs_titles li.ui-tabs-active a:before{ background-color: #fff; color: #fff;}
 .themeDark .sc_tabs.sc_tabs_style_1 ul li{ background-color: #191919; }
 .themeDark .sc_tabs.sc_tabs_style_1 ul li a{ color: #8c8c8c; }
 .themeDark .sc_tabs.sc_tabs_style_1 ul li a,
@@ -120,8 +120,8 @@
 .themeDark .sc_table table thead tr th,
 .themeDark .sc_table table tbody tr td,
 .themeDark .sc_table table tfoot tr td{ border-color: #2e2e2e; background-color: #262626; }
-.themeDark .sc_table table tfoot td{ background-color: #000; color: #fff; }
-.themeDark .sc_table.sc_table_style_1 table thead tr th{ background-color: #000;}
+.themeDark .sc_table table tfoot td{ background-color: #fff; color: #fff; }
+.themeDark .sc_table.sc_table_style_1 table thead tr th{ background-color: #fff;}
 
 .themeDark .sc_scroll .sc_scroll_bar_horizontal,
 .themeDark .sc_scroll .sc_scroll_bar_vertical{ border-color: #2e2e2e; }
@@ -159,5 +159,5 @@
 
 .themeDark .userHeaderSection{ background-color: #2e2e2e; color: #8c8c8c; }
 
-.themeDark.menuStyle2 #header ul > li > ul{ background-color: #2e2e2e; border-color: #000;}
+.themeDark.menuStyle2 #header ul > li > ul{ background-color: #2e2e2e; border-color: #fff;}
 .themeDark.menuStyle2 #header ul > li > ul li a{ color: #fff; }

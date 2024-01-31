@@ -235,7 +235,7 @@
 .sliderHeader.slider_engine_revo:hover .tparrows{ opacity: 0.5;}
 .sliderHeader.slider_engine_revo .tparrows:before{ font-family: "fontello"; display: block; color: #fff; font-size: 300%; }
 .sliderHeader.slider_engine_revo .tparrows:hover{ opacity: 1; }
-.sliderHeader.slider_engine_revo .tparrows:hover:before{ color: #b4bb6b; }
+.sliderHeader.slider_engine_revo .tparrows:hover:before{ color: #d1690f; }
 .sliderHeader.slider_engine_revo .tp-leftarrow.default:before{ content: '\e844'; }
 .sliderHeader.slider_engine_revo .tp-rightarrow.default:before{ content: '\e843'; }
 
@@ -243,31 +243,31 @@
 	-webkit-border-radius: 12px;
 	   -moz-border-radius: 12px;
 	        border-radius: 12px;  }
-.sliderHeader.slider_engine_revo .tp-bullets.simplebullets.round .bullet:hover{ background-color: #000; }
+.sliderHeader.slider_engine_revo .tp-bullets.simplebullets.round .bullet:hover{ background-color: #fff; }
 .sliderHeader.slider_engine_revo .tp-bullets.simplebullets.round .bullet + .bullet { margin: 0 0 0 10px; }
-.sliderHeader.slider_engine_revo .tp-bullets.simplebullets.round .bullet.selected{ background-color: #b4bb6b;}
+.sliderHeader.slider_engine_revo .tp-bullets.simplebullets.round .bullet.selected{ background-color: #d1690f;}
 
-.sliderHeader.slider_engine_revo .tp-bannertimer{ background: none; height: 1px; background-color: #b4bb6b; z-index: 100; }
+.sliderHeader.slider_engine_revo .tp-bannertimer{ background: none; height: 1px; background-color: #d1690f; z-index: 100; }
 
 /*custom slider revo css*/
 .rs_button{  display: inline-block; text-transform: uppercase; text-align: center; font-family: 'Laila', sans-serif; }
-.rs_button a{ display: block; color: #fff; background-color: #b4bb6b; letter-spacing: 3px; font-size: 1.5ex;  padding: 2ex 3ex; }
-.rs_button a:hover{ background-color: #000; color: #fff; }
+.rs_button a{ display: block; color: #fff; background-color: #d1690f; letter-spacing: 3px; font-size: 1.5ex;  padding: 2ex 3ex; }
+.rs_button a:hover{ background-color: #fff; color: #fff; }
 
 .rs_button2{  display: inline-block; text-transform: uppercase; text-align: center; font-family: 'Laila', sans-serif; }
-.rs_button2 a{ display: block; color: #fff; background-color: #000; letter-spacing: 3px; font-size: 1.5ex;  padding: 3ex 4ex; }
-.rs_button2 a:hover{ background-color: #b4bb6b; color: #fff; }
+.rs_button2 a{ display: block; color: #fff; background-color: #fff; letter-spacing: 3px; font-size: 1.5ex;  padding: 3ex 4ex; }
+.rs_button2 a:hover{ background-color: #d1690f; color: #fff; }
 
 .rs_button3{  display: inline-block; text-transform: uppercase; text-align: center; font-family: 'Laila', sans-serif; }
-.rs_button3 a{ display: block; color: #fff; background-color: #000; letter-spacing: 3px; font-size: 1.5ex;  padding: 3ex 5ex; }
-.rs_button3 a:hover{ background-color: #b4bb6b; color: #fff; }
+.rs_button3 a{ display: block; color: #fff; background-color: #fff; letter-spacing: 3px; font-size: 1.5ex;  padding: 3ex 5ex; }
+.rs_button3 a:hover{ background-color: #d1690f; color: #fff; }
 
-.rs_title{ font-family: 'Laila', sans-serif; letter-spacing: 4px; font-size: 5ex; line-height: 3ex; text-transform: uppercase; color: #b4bb6b; text-align: center; font-weight: 300; }
+.rs_title{ font-family: 'Laila', sans-serif; letter-spacing: 4px; font-size: 5ex; line-height: 3ex; text-transform: uppercase; color: #d1690f; text-align: center; font-weight: 300; }
 
-.rs_text{  font-family: 'Laila', sans-serif; color: #000; font-size: 2.5ex; text-align: center; font-weight: 300;}
+.rs_text{  font-family: 'Laila', sans-serif; color: #fff; font-size: 2.5ex; text-align: center; font-weight: 300;}
 .re_wine1{ color: #898989; font-size: 12px; line-height: 1.2em; display: inline-block; max-width: 150px; white-space: normal; text-align: center;}
 .re_wine2{ font-size: 5em; line-height: 1.1em;}
-.re_wine3{ color: #000; text-align: center; text-transform: uppercase; display: inline-block; font-size: 12px; letter-spacing: 2px;}
+.re_wine3{ color: #fff; text-align: center; text-transform: uppercase; display: inline-block; font-size: 12px; letter-spacing: 2px;}
 .re_wine4{ color: #fff; text-align: center; text-transform: uppercase; display: inline-block; font-size: 12px; letter-spacing: 2px;}
 .re_wine5{ color: #898989; font-size: 14px; line-height: 1.5em; display: inline-block; max-width: 600px; white-space: normal; }
 .re_price1{ color: #898989; font-weight: bold; line-height: 1.2em; display: inline-block; width: 150px; max-width: 150px; white-space: normal; text-align: center;}

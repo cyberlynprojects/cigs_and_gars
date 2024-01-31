@@ -35,7 +35,7 @@ Primary use:	Restaurants & Cafes
 21. Custom_options
 
 [Color codes]
-# Template Main Color: #b4bb6b
+# Template Main Color: #d1690f
 # Template Accent Color: #f26248
 
 
@@ -86,7 +86,7 @@ a img {
     border: none;
 }
 a {
-    color: #b4bb6b;
+    color: #d1690f;
     text-decoration: none;
 }
 a:hover {} img {
@@ -197,11 +197,11 @@ table td {
 }
 ::selection {
     color: #fff;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 ::-moz-selection {
     color: #fff;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 /*--- respons Width ---*/
 
@@ -302,7 +302,7 @@ input[type="search"]::-webkit-search-cancel-button {
     -webkit-appearance: none;
     height: 16px;
     width: 16px;
-    color: #b4bb6b;
+    color: #d1690f;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
     -o-transition: all 0.3s ease-out;
@@ -1235,7 +1235,7 @@ body [class*=" icon-"]:before {
     display: block;
     text-align: center;
     letter-spacing: 0;
-    color: #b4bb6b;
+    color: #d1690f;
     padding: 40px 15px 0 15px;
     position: relative;
 }
@@ -1274,14 +1274,14 @@ body [class*=" icon-"]:before {
     width: 80%;
 }
 .logoStyleBG .logoHeader .logoImg {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     padding: 10px 15px 0px 15px;
     color: #fff;
 }
 .logoStyleBG .logoHeader .logo_bg_size {
     width: 0;
     height: 0;
-    border-color: #b4bb6b transparent transparent transparent;
+    border-color: #d1690f transparent transparent transparent;
     border-style: solid;
     border-width: 45px 55px 0 55px;
 }
@@ -1326,7 +1326,7 @@ body [class*=" icon-"]:before {
     top: 0;
     left: 0;
     height: 45px;
-    background: #b4bb6b;
+    background: #d1690f;
     z-index: 5;
     font-size: 20px;
     font-weight: 900;
@@ -1364,7 +1364,7 @@ body [class*=" icon-"]:before {
     top: 0;
     left: 0;
     height: 45px;
-    background: #b4bb6b;
+    background: #d1690f;
     z-index: 6;
     font-size: 20px;
     font-weight: 900;
@@ -1406,7 +1406,7 @@ body [class*=" icon-"]:before {
     left: 0;
     right: 0;
     z-index: 200;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .menuStyleFixed #header.fixedTopMenuShow .menuFixedWrap .wrapTopMenu .topMenu > ul {
     padding: 0 !important;
@@ -1510,7 +1510,7 @@ body [class*=" icon-"]:before {
     display: block;
     height: 45px;
     line-height: 45px;
-    color: #000;
+    color: #fff;
     padding: 0 20px;
     margin: 0 20px;
     letter-spacing: 3px;
@@ -1524,7 +1524,7 @@ body [class*=" icon-"]:before {
 .wrapTopMenu .topMenu > ul > li > a:before {
     content: '';
     height: 1px;
-    background-color: #000;
+    background-color: #fff;
     position: absolute;
     bottom: 8px;
     left: 50%;
@@ -1556,7 +1556,7 @@ body [class*=" icon-"]:before {
     min-width: 150px;
     border-style: solid;
     border-width: 1px 1px 1px 1px;
-    border-color: #b4bb6b;
+    border-color: #d1690f;
     width: 180px;
     margin: 0 0 0 -105px;
     z-index: 203;
@@ -1745,7 +1745,7 @@ body [class*=" icon-"]:before {
     border: 1px solid #fff !important;
 }
 #header .userMenuArea ul.usermenuList .usermenuCart .widget_area p.buttons a:hover {
-    border: 1px solid #000 !important;
+    border: 1px solid #fff !important;
 }
 #header .userMenuArea ul.usermenuList .usermenuCart .widget_area p.total {
     margin: 0 0 10px 0;
@@ -1778,7 +1778,7 @@ body [class*=" icon-"]:before {
     background-color: #ccc;
     position: relative;
     z-index: 1003;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     overflow: hidden;
 }
 .userMenuArea .openUserArea:before,
@@ -1792,7 +1792,7 @@ body [class*=" icon-"]:before {
     font-size: 26px;
     position: absolute;
     right: 0;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
     -webkit-transition: top 1s ease;
     -moz-transition: top 1s ease;
@@ -1820,7 +1820,7 @@ body [class*=" icon-"]:before {
     background-color: #caa;
     z-index: 1002;
     padding: 0 10px;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     -webkit-transition: right 1s ease;
     -moz-transition: right 1s ease;
     -o-transition: right 1s ease;
@@ -1976,12 +1976,12 @@ body [class*=" icon-"]:before {
 /*--- style1 ---*/
 
 .menuStyle1 #header ul > li > ul {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     top: 45px;
 }
 .menuStyle1 #header ul > li > ul:before {
     top: -9px;
-    border-color: transparent transparent #b4bb6b transparent;
+    border-color: transparent transparent #d1690f transparent;
 }
 .menuStyle1 #header ul > li > ul li a {
     color: #fff;
@@ -2025,25 +2025,25 @@ body [class*=" icon-"]:before {
     border: none;
     width: 10px;
     height: 10px;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     border-radius: 5px;
 }
 .menuStyle2 #header ul > li > ul li a {
-    color: #000;
+    color: #fff;
 }
 .menuStyle2 #header ul > li > ul li a:before {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .menuStyle2 #header ul > li > ul li.sfHover > a,
 .menuStyle2 #header ul > li > ul li a:hover {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .menuStyle2 #header ul > li > ul li.menu-item-has-children:after {
-    color: #000;
+    color: #fff;
 }
 .menuStyle2 #header ul > li > ul > li ul {
     background-color: #fff;
-    border-color: #b4bb6b;
+    border-color: #d1690f;
     top: -8px;
 }
 .hideMenuDisplay .wrapTopMenu {
@@ -2078,7 +2078,7 @@ body [class*=" icon-"]:before {
     padding-right: 30px;
 }
 footer {
-    border-top: 1px solid #ddd;
+    border-top: 1px solid #ddd;    
 }
 footer.footerWidget {
     padding: 70px 0 0 0;
@@ -2214,7 +2214,7 @@ footer .widget_area.widget_second {
 }
 .widgetWrap ul > li {
     list-style: none;
-    color: #b4bb6b;
+    color: #d1690f;
     font-size: 14px;
     position: relative;
     font-weight: 500;
@@ -2238,7 +2238,7 @@ footer .widget_area.widget_second {
     color: #898989;
 }
 .widgetWrap ul > li a:hover {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .widgetWrap ul > li ul {
     padding: 0 0 0 15px;
@@ -2328,20 +2328,20 @@ footer .widget_area.widget_second {
     width: 4px;
     height: 4px;
     position: absolute;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     left: 50%;
     margin: 0 0 0 -2px;
     bottom: 4px;
 }
 .widget_calendar table tbody td a:hover {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff
 }
 .widget_calendar table tbody td a:hover:before {
     background-color: #fff;
 }
 .widget_calendar table tbody td#today {
-    outline: 1px solid #b4bb6b;
+    outline: 1px solid #d1690f;
 }
 /*--- Widget tags ---*/
 
@@ -2352,14 +2352,14 @@ footer .widget_area.widget_second {
     display: block;
     float: left;
     font-size: 13px !important;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
     padding: 4px 10px;
     margin: 0 5px 5px 0;
     position: relative;
 }
 .widget_tag_cloud a:before {
-    background-color: #000;
+    background-color: #fff;
     position: absolute;
     left: 0;
     right: 0;
@@ -2410,7 +2410,7 @@ footer .widget_area.widget_second {
     font-size: 12px;
 }
 .widget_search .searchFormWrap .searchField input:focus {
-    color: #000;
+    color: #fff;
     border-color: #cfcfcf;
 }
 .widget_search .searchFormWrap .searchField input:-moz-placeholder {
@@ -2425,7 +2425,7 @@ footer .widget_area.widget_second {
     padding: 0 0 0 20px;
 }
 .widget_recent_comments ul > li {
-    color: #000 !important;
+    color: #fff !important;
     list-style: none;
     position: relative;
     margin: 0;
@@ -2447,7 +2447,7 @@ footer .widget_area.widget_second {
     top: 3px;
 }
 .widget_recent_comments ul > li a {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 /*--- Widget recent reviews  ---*/
 
@@ -2490,7 +2490,7 @@ footer .widget_area.widget_second {
 }
 .widget_recent_reviews .post_item .post_wrapper .post_info .post_review .post_review_number,
 .widget_recent_reviews .post_item .post_wrapper .post_info .post_review .review_icon {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     float: left;
     display: block;
 }
@@ -2500,7 +2500,7 @@ footer .widget_area.widget_second {
     float: left;
     border-style: solid;
     border-width: 8px 0 8px 8px;
-    border-color: transparent transparent transparent #b4bb6b;
+    border-color: transparent transparent transparent #d1690f;
     width: 0;
     height: 0;
 }
@@ -2535,7 +2535,7 @@ footer .widget_area.widget_second {
 }
 .widget_flickr .flickr_images .flickr_badge_image a:before {
     content: '';
-    background-color: #000;
+    background-color: #fff;
     position: absolute;
     top: 0;
     left: 0;
@@ -2574,7 +2574,7 @@ footer .widget_area.widget_second {
     margin: 0;
 }
 .widgetWrap.widget_twitter ul > li {
-    color: #000;
+    color: #fff;
     list-style: none;
     position: relative;
 }
@@ -2585,7 +2585,7 @@ footer .widget_area.widget_second {
 .widget_twitter ul > li:before {
     content: '\e820';
     font-family: "fontello";
-    color: #b4bb6b;
+    color: #d1690f;
     text-align: left;
     font-size: 20px;
     width: 25px;
@@ -2596,7 +2596,7 @@ footer .widget_area.widget_second {
     left: -25px;
 }
 .widget_twitter ul > li a {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .widget_twitter ul > li a:hover {}
 /*--- widget socials ---*/
@@ -2631,10 +2631,10 @@ aside.widget_socials ul li {
 }
 .widget_rss ul li .rss-date,
 .widget_rss ul li .rssSummary {
-    color: #000;
+    color: #fff;
 }
 .widget_rss ul li a {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 /*--- widget popular posts ---*/
 
@@ -2650,8 +2650,8 @@ aside.widget_socials ul li {
 .widget_trex_post .ui-tabs-nav li a {
     display: block;
     padding: 5px 20px;
-    border: 1px solid #b4bb6b;
-    color: #b4bb6b;
+    border: 1px solid #d1690f;
+    color: #d1690f;
     text-transform: uppercase;
     font-size: 10px;
     letter-spacing: 2px;
@@ -2660,7 +2660,7 @@ aside.widget_socials ul li {
     display: none;
 }
 .widget_trex_post .ui-tabs-nav li.ui-state-active a {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
 }
 .widget_trex_post .post_item {
@@ -2713,14 +2713,14 @@ aside.widget_socials ul li {
 .widget_top10 .ui-tabs-nav li a {
     display: block;
     padding: 5px 20px;
-    border: 1px solid #b4bb6b;
-    color: #b4bb6b;
+    border: 1px solid #d1690f;
+    color: #d1690f;
     text-transform: uppercase;
     font-size: 10px;
     letter-spacing: 2px;
 }
 .widget_top10 .ui-tabs-nav li.ui-state-active a {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
 }
 .widget_top10 .post_item {
@@ -2847,7 +2847,7 @@ aside.widget_socials ul li {
     height: 30px;
     line-height: 30px;
     font-size: 14px;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
     padding: 0 8px 0 12px;
 }
@@ -2859,7 +2859,7 @@ aside.widget_socials ul li {
     width: 0;
     border-style: solid;
     border-width: 15px 0 15px 12px;
-    border-color: transparent transparent transparent #b4bb6b;
+    border-color: transparent transparent transparent #d1690f;
 }
 .postInfo .postReview {}
 /*=== Review =========================================================================================*/
@@ -2917,7 +2917,7 @@ aside.widget_socials ul li {
     height: 12px;
     z-index: 2;
     overflow: hidden;
-    color: #b4bb6b;
+    color: #d1690f;
     white-space: nowrap;
 }
 .revItem .revBlock.revStyle100 {
@@ -2940,7 +2940,7 @@ aside.widget_socials ul li {
     left: 0;
     top: 0;
     height: 6px;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 /*--- review Block ---*/
 
@@ -3048,7 +3048,7 @@ aside.widget_socials ul li {
     top: 0;
     z-index: 2;
     overflow: hidden;
-    color: #b4bb6b;
+    color: #d1690f;
     white-space: nowrap;
     -webkit-transition: width 0.3s ease-out;
     -moz-transition: width 0.3s ease-out;
@@ -3074,7 +3074,7 @@ aside.widget_socials ul li {
     left: 0;
     top: 0;
     height: 6px;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .reviewBlock .reviewTab .revWrap .revBlock .revTooltip {
     position: absolute;
@@ -3157,7 +3157,7 @@ aside.widget_socials ul li {
 }
 .reviewBlock .reviewTab .revTotalWrap .revTotal .revRating {
     font-size: 60px;
-    color: #b4bb6b;
+    color: #d1690f;
 }
 /*=== theme paginaton =========================================================================================*/
 
@@ -3171,7 +3171,7 @@ aside.widget_socials ul li {
 }
 .nav_pages ul li {
     display: inline-block;
-    color: #000;
+    color: #fff;
     font-size: 14px;
 }
 .nav_pages ul li + li {
@@ -3181,16 +3181,16 @@ aside.widget_socials ul li {
     display: block;
     padding: 4px 12px;
     border: 1px solid #ddd;
-    color: #000;
+    color: #fff;
 }
 .nav_pages ul li a:hover {
-    color: #b4bb6b;
-    border-color: #b4bb6b;
+    color: #d1690f;
+    border-color: #d1690f;
 }
 .nav_pages ul li span {
     display: block;
     padding: 5px 13px;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     color: #fff;
 }
 /*=== hover A effect =========================================================================================*/
@@ -3227,7 +3227,7 @@ aside.widget_socials ul li {
     text-align: center;
     width: 50px !important;
     height: 50px !important;
-    color: #b4bb6b;
+    color: #d1690f;
 }
 /*post*/
 
@@ -3348,7 +3348,7 @@ aside.widget_socials ul li {
     font-style: normal;
     font-size: 24px;
     position: relative;
-    color: #000;
+    color: #fff;
 }
 .format-quote .sc_quote:before {
     content: '“';
@@ -3405,7 +3405,7 @@ aside.widget_socials ul li {
 .attachmentThumb .attcNav {
     display: block;
     width: 50%;
-    color: #000;
+    color: #fff;
     min-height: 50px;
 }
 .attachmentThumb .attcNav.attcPrev {
@@ -3529,7 +3529,7 @@ aside.widget_socials ul li {
     line-height: 40px;
     text-align: center;
     font-weight: 400;
-    color: #000;
+    color: #fff;
 }
 .page404 p b {
     font-weight: 600;
@@ -3556,7 +3556,7 @@ aside.widget_socials ul li {
     line-height: 30px;
     text-align: center;
     font-weight: 300;
-    color: #000;
+    color: #fff;
 }
 .noPost p b {
     font-weight: 600;
@@ -3579,7 +3579,7 @@ aside.widget_socials ul li {
     line-height: 30px;
     text-align: center;
     font-weight: 300;
-    color: #000;
+    color: #fff;
 }
 .noSearch p b {
     font-weight: 600;
@@ -3721,7 +3721,7 @@ aside.widget_socials ul li {
     font-size: 14px;
     line-height: 14px;
     font-weight: 400;
-    color: #000;
+    color: #fff;
     padding: 0 0 15px 0;
 }
 .author .authorInfo .authorTitle a {
@@ -3760,7 +3760,7 @@ ul.social_style_images li a {
     height: 32px;
     overflow: hidden;
     margin: 0 10px 10px 0;
-    background-color: #000;
+    background-color: #fff;
 }
 ul.social_style_images li a img {
     display: block;
@@ -3799,7 +3799,7 @@ ul.social_style_icon {}
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-color: #000;
+    background-color: #fff;
 }
 .postBox .postBoxItem .postThumb img {
     width: 100%;
@@ -3816,7 +3816,7 @@ ul.social_style_icon {}
     height: 100%;
     left: 0;
     top: 0;
-    background-color: #000;
+    background-color: #fff;
     opacity: 0;
 }
 .postBox .postBoxItem:hover .sc_video_frame .sc_video_frame_thumb:before,
@@ -3914,7 +3914,7 @@ ul.social_style_icon {}
     color: #fff;
 }
 .postBox .postBoxItem .postBoxInfo h5 a:hover {
-    color: #b4bb6b
+    color: #d1690f
 }
 .postBox .postBoxItem.noneThumb .postBoxInfo h5,
 .postBox .postBoxItem:hover .postBoxInfo h5 {
@@ -4055,7 +4055,7 @@ ul.social_style_icon {}
     margin: 0 0 10px 0;
 }
 .comments .commentModeration .icon {
-    color: #b4bb6b;
+    color: #d1690f;
     margin: 0 5px 0 0;
 }
 .comments .commentModeration:after {
@@ -4147,7 +4147,7 @@ ul.social_style_icon {}
     height: 100%;
     z-index: 6;
     display: block;
-    background-color: #000;
+    background-color: #fff;
     opacity: 0;
     filter: alpha(opacity=0);
 }
@@ -4165,7 +4165,7 @@ ul.social_style_icon {}
     background: #fff;
     z-index: 7;
     text-align: center;
-    color: #000;
+    color: #fff;
     opacity: 0;
     filter: alpha(opacity=0);
 }
@@ -4210,7 +4210,7 @@ ul.social_style_icon {}
     display: block;
 }
 .isotopeFiltr ul li.active a {
-    background-color: #000;
+    background-color: #fff;
 }
 /*--- isotope ---*/
 
@@ -4368,7 +4368,7 @@ ul.social_style_icon {}
 }
 .isotopeWrap .isotopeItem .isotopeContent .isotopeTitle:hover,
 .isotopeWrap .isotopeItem .isotopeContent .isotopeTitle a:hover {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .isotopeWrap .isotopeItem .isotopeContent .isotopeExcerpt {
     color: #fff;
@@ -4521,7 +4521,7 @@ ul.social_style_icon {}
 }
 .isotopeWrap .isotopeItem .isotopeRating span.rInfo {
     padding: 10px 0;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     position: relative;
     z-index: 1;
     font-weight: 400;
@@ -4540,7 +4540,7 @@ ul.social_style_icon {}
 .isotopeWrap .isotopeItem .isotopeRating:after {
     content: '';
     display: block;
-    border-color: #b4bb6b transparent transparent transparent;
+    border-color: #d1690f transparent transparent transparent;
     border-style: solid;
     border-width: 20px 25px 0 25px;
 }
@@ -4597,7 +4597,7 @@ ul.social_style_icon {}
     font-size: 25px;
 }
 .isotopeWrap .fullItemWrap .fullItemClosed:hover {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .isotopeWrap .fullItemWrap .fullContent {
     background-color: #f8f6ee;
@@ -4650,7 +4650,7 @@ ul.social_style_icon {}
     color: #e4e4e4;
 }
 .isotopeWrap .fullItemWrap .isotopeNav:hover {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .isotopeWrap .fullItemWrap .isotopeNav:before {
     display: block;
@@ -4718,7 +4718,7 @@ ul.social_style_icon {}
     right: 40px;
     z-index: 999;
     cursor: pointer;
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .buttonScrollUp:after {
     content: '';
@@ -4726,7 +4726,7 @@ ul.social_style_icon {}
     height: 0;
     border-style: solid;
     border-width: 0 40px 40px 40px;
-    border-color: transparent transparent #b4bb6b transparent;
+    border-color: transparent transparent #d1690f transparent;
     position: absolute;
     left: 0;
     top: -40px;
@@ -4920,7 +4920,7 @@ ul.social_style_icon {}
     height: 32px;
     display: block;
     float: left;
-    background: #000;
+    background: #fff;
 }
 .user-popUp .formItems .formList .loginSoc .iconLogin + .iconLogin {
     margin: 0 0 0 5px;
@@ -4988,7 +4988,7 @@ body.custom_options_opened .custom_options {
     left: 0;
     top: 0;
     z-index: 998;
-    background-color: #000;
+    background-color: #fff;
     opacity: 0.5;
     display: none;
 }
@@ -5335,7 +5335,7 @@ body.custom_options_opened .custom_options {
     color: #787878;
 }
 .custom_options.co_light .co_header .co_reset:hover {
-    color: #000;
+    color: #fff;
 }
 .custom_options.co_light .co_header {
     border-color: #e0e0e0;
@@ -5821,26 +5821,26 @@ h6 .wpb_text_column p {
     color: #fff !important;
 }
 #form_container_all > div:last-child a {
-    background-color: #000 !important;
+    background-color: #fff !important;
     color: #fff;
 }
 #form_container_all > div:last-child input {
-    background-color: #b4bb6b !important;
+    background-color: #d1690f !important;
     color: #fff;
 }
 #booking_slot_form .booking_word_space {
-    color: #000 !important;
+    color: #fff !important;
 }
 #booking_slot_form .booking_word_space span {
-    color: #000 !important;
+    color: #fff !important;
 }
 #form_container_all .booking_float_left {
-    color: #000;
+    color: #fff;
 }
 #form_container_all .booking_float_left input[type="text"],
 #form_container_all .booking_float_left textarea {
     color: #888888 !important;
-    border: 2px solid #000 !important;
+    border: 2px solid #fff !important;
     background-color: transparent;
     background-color: transparent !important;
 }
@@ -5871,12 +5871,12 @@ h6 .wpb_text_column p {
 .tribe-events-read-more {
     font-size: 12px;
     padding: 13px 40px;
-    background-color: #000;
+    background-color: #fff;
     color: #fff;
     display: inline-block;
 }
 .tribe-events-read-more:hover {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .tribe-events-list .type-tribe_events h2 {
     font-size: 48px;
@@ -5886,13 +5886,13 @@ h6 .wpb_text_column p {
     margin-top: 10px;
 }
 #tribe-bar-form .tribe-bar-submit input[type=submit] {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 .single-tribe_events .tribe-events-event-meta {
     border: none;
 }
 .tribe-events-calendar thead th {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
     border-color: rgba(255, 255, 255, 0.2);
 }
 #tribe-events .tribe-events-button,
@@ -5904,13 +5904,13 @@ h6 .wpb_text_column p {
 .tribe-events-button:hover,
 .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-],
 .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-]>a {
-    background-color: #b4bb6b;
+    background-color: #d1690f;
 }
 #tribe-events-content .tribe-events-tooltip h4,
 #tribe_events_filters_wrapper .tribe_events_slider_val,
 .single-tribe_events a.tribe-events-gcal,
 .single-tribe_events a.tribe-events-ical {
-    color: #b4bb6b;
+    color: #d1690f;
 }
 .tribe-events-list-separator-month span {
     background-color: #f8f6ee;
@@ -6160,7 +6160,7 @@ a.tribe-events-gcal {
 }
 .tp-caption.black,
 .black {
-	color: #000;
+	color: #fff;
 	text-shadow: none
 }
 
