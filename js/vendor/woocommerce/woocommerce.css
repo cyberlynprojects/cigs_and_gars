@@ -2534,12 +2534,12 @@ div.product form.cart .button{ height: 52px; }
 .sc_section .woocommerce-page a.button,
 .sc_section .woocommerce-page a.button.alt{ display: none; }
 
-.sc_section .woocommerce *{ color: #898989; }
+.sc_section .woocommerce *{ color: #330505; }
 
 .sc_section .woocommerce ul.products li.product a img,
 .sc_section .woocommerce-page ul.products li.product a img{ border: none; margin:0 0 30px 0; }
 
 .sc_section .woocommerce-page.columns-3 ul.products li.product,
-.sc_section .woocommerce.columns-3 ul.products li.product{ text-align: center; color: #898989; margin-bottom: 0; }
+.sc_section .woocommerce.columns-3 ul.products li.product{ text-align: center; color: #330505; margin-bottom: 0; }
 
 .woocommerce .widget_shopping_cart .cart_list li a.remove, .woocommerce.widget_shopping_cart .cart_list li a.remove { position: relative !important;}

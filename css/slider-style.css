@@ -265,12 +265,12 @@
 .rs_title{ font-family: 'Laila', sans-serif; letter-spacing: 4px; font-size: 5ex; line-height: 3ex; text-transform: uppercase; color: #d1690f; text-align: center; font-weight: 300; }
 
 .rs_text{  font-family: 'Laila', sans-serif; color: #fff; font-size: 2.5ex; text-align: center; font-weight: 300;}
-.re_wine1{ color: #898989; font-size: 12px; line-height: 1.2em; display: inline-block; max-width: 150px; white-space: normal; text-align: center;}
+.re_wine1{ color: #330505; font-size: 12px; line-height: 1.2em; display: inline-block; max-width: 150px; white-space: normal; text-align: center;}
 .re_wine2{ font-size: 5em; line-height: 1.1em;}
 .re_wine3{ color: #fff; text-align: center; text-transform: uppercase; display: inline-block; font-size: 12px; letter-spacing: 2px;}
 .re_wine4{ color: #fff; text-align: center; text-transform: uppercase; display: inline-block; font-size: 12px; letter-spacing: 2px;}
-.re_wine5{ color: #898989; font-size: 14px; line-height: 1.5em; display: inline-block; max-width: 600px; white-space: normal; }
-.re_price1{ color: #898989; font-weight: bold; line-height: 1.2em; display: inline-block; width: 150px; max-width: 150px; white-space: normal; text-align: center;}
+.re_wine5{ color: #330505; font-size: 14px; line-height: 1.5em; display: inline-block; max-width: 600px; white-space: normal; }
+.re_price1{ color: #330505; font-weight: bold; line-height: 1.2em; display: inline-block; width: 150px; max-width: 150px; white-space: normal; text-align: center;}
 .re_price2{ color: #f26248; font-size: 2em; font-weight: bold;}
 
 

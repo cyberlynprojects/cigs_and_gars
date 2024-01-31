@@ -60,7 +60,7 @@ body {
     font-size: 16px;
     line-height: 150%;
     font-weight: 400;
-    color: #898989;
+    color: #330505;
     background-color: #fff;
     -webkit-font-smoothing: antialiased
 }
@@ -2236,7 +2236,7 @@ footer .widget_area.widget_second {
     margin: 5px 0 0 0;
 }
 .widgetWrap ul > li a {
-    color: #898989;
+    color: #330505;
 }
 .widgetWrap ul > li a:hover {
     color: #d1690f;
@@ -2315,7 +2315,7 @@ footer .widget_area.widget_second {
     vertical-align: middle;
     height: 36px;
     line-height: 36px;
-    color: #898989;
+    color: #330505;
 }
 .widget_calendar table tbody td a {
     display: block;

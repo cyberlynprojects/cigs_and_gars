@@ -225,7 +225,7 @@ var THEMEREX_googlemap_styles = {
 		    "saturation": -83.6
 		   },
 		   {
-		    "lightness": 48.80000000000001
+		    "lightness": 48.33050500000001
 		   },
 		   {
 		    "gamma": 1
