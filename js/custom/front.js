@@ -2,9 +2,9 @@
 // Video and Audio tag wrapper
 var THEMEREX_useMediaElement = true;
 
-//fonts
-var THEMEREX_GLOBAL_FONTS = 'Laila';
-var THEMEREX_HEADER_FONTS = 'Laila';
+//fontsfont-family: 'Playfair Display', serif;
+var THEMEREX_GLOBAL_FONTS = 'Playfair Display';
+var THEMEREX_HEADER_FONTS = 'Playfair Display';
 
 // E-mail mask
 THEMEREX_EMAIL_MASK = '^([a-zA-Z0-9_\\-]+\\.)*[a-zA-Z0-9_\\-]+@[a-z0-9_\\-]+(\\.[a-z0-9_\\-]+)*\\.[a-z]{2,6}$';

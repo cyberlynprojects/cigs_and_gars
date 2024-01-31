@@ -1,5 +1,6 @@
 body, button, input, select, textarea {
-    font-family: 'Laila', sans-serif;
+    /* font-family: 'Laila', sans-serif; */
+    font-family: 'Playfair Display', serif;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
 #header,
@@ -22,7 +23,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
 .sc_countdown_flip .flip-clock-wrapper ul,
 .sc_countdown_round .countdown-amount,
 .subCategory .categoryDescription {
-    font-family: 'Laila', 'Laila', sans-serif;
+    /* font-family: 'Laila', 'Laila', sans-serif; */
+    font-family: 'Playfair Display', serif;
 }
 a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .h1 a:hover, .h2 a:hover, .h3 a:hover, .h4 a:hover, .h5 a:hover, .h6 a:hover,
 .logoHeader .logoImg,
